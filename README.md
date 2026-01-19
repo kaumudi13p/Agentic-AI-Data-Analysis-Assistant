@@ -1,4 +1,3 @@
-# Agentic-AI-Data-Analysis-Assistant
 
 # Agentic AI Data Analysis Assistant
 
